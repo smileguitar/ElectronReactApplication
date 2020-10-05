@@ -1,0 +1,8 @@
+.content-wrapper {
+  margin-left: 6rem;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 45px;
+  padding-right: 30px;
+  height: calc(100vh - (1.5rem + 1px));
+}

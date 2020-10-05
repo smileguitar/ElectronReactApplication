@@ -1,0 +1,10 @@
+{
+  "stores": [
+    {
+      "type": "supreme",
+      "name": "Supreme",
+      "url": "https://www.supremenewyork.com/shop/all",
+      "sizes": ["Small", "Medium", "Large", "X-Large", "Random"]
+    }
+  ]
+}
